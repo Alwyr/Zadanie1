@@ -1,3 +1,5 @@
 Súčasné možnosti využitia EEG senzorov pre detekciu zmeny emocionálneho stavu.
 
 --Anotácia--
+
+Rok obhajoby: 2022
