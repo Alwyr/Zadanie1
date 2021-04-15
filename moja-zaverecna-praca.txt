@@ -1,1 +1,3 @@
-Súčasné možnosti využitia EEG senzorov pre detekciu zmeny emocionálneho stavu
+Súčasné možnosti využitia EEG senzorov pre detekciu zmeny emocionálneho stavu.
+
+--Anotácia--
